@@ -1,0 +1,48 @@
+{
+  "name": "skyport",
+  "version": "1.0.0",
+  "description": "It's skyport.",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "seed": "node exec/seed.js",
+    "createUser": "node exec/createUser.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> b731dc3 (Initial commit)
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.7",
+    "@tailwindcss/forms": "^0.5.7",
+    "axios": "^1.6.8",
+<<<<<<< HEAD
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cat-loggr": "^1.2.2",
+    "chalk": "^4.1.2",
+=======
+    "body-parser": "^1.20.2",
+    "cat-loggr": "^1.2.2",
+>>>>>>> b731dc3 (Initial commit)
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-basic-auth": "^1.2.1",
+    "express-session": "^1.18.0",
+<<<<<<< HEAD
+    "express-ws": "^5.0.2",
+=======
+>>>>>>> b731dc3 (Initial commit)
+    "fs": "^0.0.1-security",
+    "keyv": "^4.5.4",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+<<<<<<< HEAD
+    "readline": "^1.3.0",
+=======
+>>>>>>> b731dc3 (Initial commit)
+    "tailwindcss": "^3.4.3",
+    "uuid": "^9.0.1"
+  }
+}

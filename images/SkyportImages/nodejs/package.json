@@ -1,0 +1,14 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "An example Node.js project on Skyport.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyport Labs",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
