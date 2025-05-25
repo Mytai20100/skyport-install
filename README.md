@@ -5,10 +5,9 @@ An open source project powered by Docker for managing applications, game servers
 > [!WARNING]
 > Skyport is not ready for production use, nor does it have a stable and completed release yet.
 
-
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/skyportlabs/panel/`
+`git clone https://github.com/Mytai20100/skyport-intall`
 
 2. Install dependencies:
 `npm install`
@@ -22,6 +21,9 @@ npm run createUser
 4. Start the Panel:
 `node . # or use pm2 to keep it online`
 
+## Installation with script
+`sudo bash install_skyport.sh`
+
 ## Configuration
 Edit the `config.json` file in the root directory to set up the application settings including the database connection and port.
 
@@ -32,4 +34,5 @@ Navigate to `http://localhost:<port>` to access the Skyport Panel. Log in with y
 Contributions are welcome. Please fork the repository and submit pull requests with your proposed changes.
 
 ## License
-(c) 2024 Matt James and contributors. All rights reserved. Licensed under the MIT License.
+(c) 2024 -2025 Matt James and contributors. All rights reserved. Licensed under the MIT License.
+
